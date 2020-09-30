@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for **Eloop (an all-electrical car-sharing provider in Vienna)**
 
-- 🌱 I come from a road less travelled, (electrical engineer) and I’m currently learning **Django and Flask**
+- 🌱 I come from a road less travelled (electrical engineer), and I’m currently learning **Django and Flask**
 
 - 📫 How to reach me **aleksandar@hey.com**
 
