@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandar-had" alt="aleksandar-had" /> </p>
 
-- 🔭 I’m currently working for **Eloop (an all-electrical car-sharing provider in Vienna)**
+- 🔭 I’m currently enrolled in my MSc Studies at the TU Vienna.
 
 - 🌱 I come from a road less travelled (electrical engineer), and I’m currently learning **Django and Flask**
 
