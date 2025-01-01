@@ -1,10 +1,6 @@
-<h3 align="center">Hi 👋, I'm Aleksandar</h3>
+Hi, I'm Aleksandar,
+here are some meaningful articles written by me:
+- Mostly during university studies: [https://aleksandar-had.medium.com/](https://aleksandar-had.medium.com/)
+- During an internship at a cool blockchain-focused company: [https://hack.bg/author/aleksandar/](https://hack.bg/author/aleksandar/)
 
-- 🤝 I always appreciate feedback on anything from projects to blog posts.
-
-- 📝 Some meaningful articles here [https://aleksandar-had.medium.com/](https://aleksandar-had.medium.com/) 
-    and I've also written a couple here [https://hack.bg/author/aleksandar/](https://hack.bg/author/aleksandar/)
-
-- 📫 How to reach me **aleksandar@hey.com**
-
-- 👨‍💻 Next on the TO-dabble-WITH list: **Java, Go, Rust**.
+Rust is cool!
